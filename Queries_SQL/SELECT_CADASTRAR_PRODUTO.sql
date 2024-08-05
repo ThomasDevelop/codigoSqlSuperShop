@@ -1,0 +1,1 @@
+SELECT inserir_produto('1', 'Arroz', 'Arroz tipo 1', 5.99, 100);
